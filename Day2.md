@@ -60,7 +60,7 @@
 - **ASIC (Application-Specific Integrated Circuit):** Custom-designed for a specific task, optimized for high-volume production.
 
 ## Comparison
-![Comparison](/30-Days-ESD-IOT-with-Pantech-Solutions/Images/comperison.png)
+![Comparison](/Images/comperison.png)
 
 ## Selection of Package
 - **DIP (Dual In-line Package):** Suitable for prototyping and manual soldering.
@@ -81,7 +81,7 @@
 - **Supplier Reputation:** Reliability and support from the supplier.
 
 ## Hardware Design Flow
-![Hardware Design Flow](/30-Days-ESD-IOT-with-Pantech-Solutions/Images/hardwareDesignFlow.png)
+![Hardware Design Flow](/Images/hardwareDesignFlow.png)
 ### Schematic Design
 - Design of circuit diagram.
 ### Layout Design
@@ -104,5 +104,5 @@
 - **High-speed Memory Placement:** Close to the processor to reduce latency.
 
 ## Software Design Flow
-![Software Design Flow](/30-Days-ESD-IOT-with-Pantech-Solutions/Images/SoftwareDesignFlow.png)
+![Software Design Flow](/Images/SoftwareDesignFlow.png)
 
